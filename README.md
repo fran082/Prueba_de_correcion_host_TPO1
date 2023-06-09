@@ -32,9 +32,15 @@ contacto
 
 Los usuarios pueden enviar mensajes y comentarios al equipo del sitio web. También incluye un menú de navegación, encabezado con una breve descripción, y un pie de página. El formulario de contacto permite a los usuarios dejar sus mensajes y proporciona una manera fácil de comunicarse con el sitio web.
 
-franquicia
+Franquicia
 
-muestra información sobre dos franquicias inmobiliarias: Garanty Home y Remax Argentina. La página incluye un menú de navegación, secciones con imágenes y descripciones de cada franquicia, y enlaces a sitios externos para obtener más información sobre ellas.
+Muestra información sobre dos franquicias inmobiliarias: Garanty Home y Remax Argentina. La página incluye un menú de navegación, secciones con imágenes y descripciones de cada franquicia, y enlaces a sitios externos para obtener más información sobre ellas.
+
+Los div de las Franquicias son clikeables y te llevan a sus paginas oficiales para que puedas ponerte en contacto.
+
+Pagina responsive.
+
+El menu desktop y menu para smartphone y tablet esta en dos archivos .css diferentes. En la carpeta assets/franquicia menu-Float.css y menu-celulares.css
 
 La página también presenta secciones adicionales con información sobre préstamos bancarios y un pie de página con los nombres de los desarrolladores del sitio.
 ## API Reference
