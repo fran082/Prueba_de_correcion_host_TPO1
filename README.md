@@ -28,10 +28,6 @@ Blog      (Juan Becerra ,  [@juan-becerra](https://github.com/jb-2015) )
 
 Incluye un menú de navegación, encabezado, contenido principal con dos entradas de blog, y un pie de página. Las entradas de blog contienen imágenes y descripciones detalladas sobre temas relacionados con la compra de una casa por primera vez y consejos para alquilar. Además, se muestra información sobre la fecha de publicación y el autor de cada entrada.
 
-Contacto      (Juan Becerra ,  [@juan-becerra](https://github.com/jb-2015) )
-
-Los usuarios pueden enviar mensajes y comentarios al equipo del sitio web. También incluye un menú de navegación, encabezado con una breve descripción, y un pie de página. El formulario de contacto permite a los usuarios dejar sus mensajes y proporciona una manera fácil de comunicarse con el sitio web.
-
 Franquicia        (Francisco Nahuel Fonseca ,  [@fran82](https://github.com/fran082) )
 
 Muestra información sobre dos franquicias inmobiliarias: Garanty Home y Remax Argentina. La página incluye un menú de navegación, secciones con imágenes y descripciones de cada franquicia, y enlaces a sitios externos para obtener más información sobre ellas.
