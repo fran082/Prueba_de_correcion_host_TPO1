@@ -52,6 +52,10 @@ body{
 	background-color: var(--fondoF)
 
 }
+
+.row1{
+margin-top: 65px;	
+}
 .c1{
 	position: relative;
 	float: left;
