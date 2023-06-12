@@ -28,6 +28,7 @@ En las casas se pueden observar la animación del zoom cuando se posiciona el mo
 Blog      (Juan Becerra ,  [@juan-becerra](https://github.com/jb-2015) )
 
 Incluye un menú de navegación, encabezado, contenido principal con dos entradas de blog, y un pie de página. Las entradas de blog contienen imágenes y descripciones detalladas sobre temas relacionados con la compra de una casa por primera vez y consejos para alquilar. Además, se muestra información sobre la fecha de publicación y el autor de cada entrada.
+En las imagenes de casas hay una animación.
 
 Franquicia        (Francisco Nahuel Fonseca ,  [@fran82](https://github.com/fran082) )
 
