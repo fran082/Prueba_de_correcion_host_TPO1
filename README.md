@@ -23,6 +23,7 @@ Proporciona información sobre la empresa y sus servicios, incluyendo la opción
 Alquilar y Compra       (Guillermo Maidana  ,  [@guilledamian91](https://github.com/guilledamian91) )
 
 Permite a los usuarios buscar y consultar propiedades para alquilar. La página incluye un menú de navegación en la parte superior y en versión para dispositivos móviles, un formulario para enviar consultas sobre las propiedades de interés, información sobre la cotización del dólar, y un pie de página con imágenes y nombres del equipo de trabajo.
+En las casas se pueden observar la animación del zoom cuando se posiciona el mouse en ella.
 
 Blog      (Juan Becerra ,  [@juan-becerra](https://github.com/jb-2015) )
 
